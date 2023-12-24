@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="news">News</string>
+    <string name="search">Search</string>
+    <string name="delete">Delete</string>
+    <string name="body">Body</string>
+    <string name="title">Title</string>
+</resources>
